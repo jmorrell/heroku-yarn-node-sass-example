@@ -1,0 +1,5 @@
+{
+  "name": "Heroku Yarn Node Sass Example",
+  "description": "This hopefully reproduces an error on heroku",
+  "repository": "https://github.com/jmorrell/heroku-yarn-node-sass-example"
+}
