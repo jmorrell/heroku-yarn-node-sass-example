@@ -6,7 +6,8 @@
   },
   "scripts": {
     "start": "node src/index",
-    "postinstall": "npm rebuild node-sass"
+    "postinstall": "npm rebuild node-sass",
+    "test": "node src/test"
   },
   "main": "index.js",
   "license": "MIT",
