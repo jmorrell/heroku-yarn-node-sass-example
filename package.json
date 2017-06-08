@@ -6,7 +6,6 @@
   },
   "scripts": {
     "start": "node src/index",
-    "postinstall": "npm rebuild node-sass",
     "heroku-postbuild": "node src/postbuild"
   },
   "main": "index.js",
