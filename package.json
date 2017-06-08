@@ -2,7 +2,7 @@
   "name": "heroku-node-sass-example",
   "version": "1.0.0",
   "engines": {
-    "node": "7.7.x"
+    "node": "8.0.x"
   },
   "scripts": {
     "start": "node src/index",
